@@ -1,5 +1,5 @@
 import {Box, Container, Image, Text,Link} from '@chakra-ui/react'
-import React from 'react'
+ 
 
 interface PageResultProps {
   imageUrl: string,

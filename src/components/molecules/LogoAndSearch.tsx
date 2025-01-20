@@ -1,5 +1,4 @@
 import {Button, Container, Image, Input, Text} from '@chakra-ui/react'
-import React from 'react'
 import InputGroup from './InputGroup'
 import {GoogleMicroIcon, GoogleSearchIcon} from '../../../public/icons/icons'
 
