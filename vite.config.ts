@@ -8,4 +8,9 @@ export default defineConfig({
     react(),
     tsconfigPaths(), // Automatically resolves paths from tsconfig
   ],
+  resolve:{
+    alias: {
+      '@': './src'
+    }
+  }
 });
